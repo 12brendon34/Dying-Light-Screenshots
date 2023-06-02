@@ -1,5 +1,5 @@
-![Normal Time](/Normal%Time%19.7.png?raw=true "Normal Dying Light Menu Background Time")
-![Time 0](/Float%0.png?raw=true "Time 0")
+![Normal Time](https://github.com/12brendon34/Dying-Light-Screenshots/blob/main//Normal%Time%19.7.png?raw=true "Normal Dying Light Menu Background Time")
+![Time 0](https://github.com/12brendon34/Dying-Light-Screenshots/blob/main/Float%200.png?raw=true "Time 0")
 ![Time 1](/Float%1.png?raw=true "Time 1")
 ![Time 2](/Float%2.png?raw=true "Time 2")
 ![Time 3](/Float%3.png?raw=true "Time 3")
