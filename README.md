@@ -1,6 +1,3 @@
-Windows Is Garbage
-If for some reason windows is garbage to you also you may need to downscale the image to even set it as a wallpaper
-
 Normal Time
 ![Normal Time](https://github.com/12brendon34/Dying-Light-Screenshots/blob/main/Normal%20Time%2019.7.png?raw=true "Normal Dying Light Menu Background Time")
 Time Set to 0
