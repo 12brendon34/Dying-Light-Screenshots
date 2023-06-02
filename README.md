@@ -51,6 +51,6 @@ Time Set to 23
 Time Set to 24
 ![Time Set to 24](https://github.com/12brendon34/Dying-Light-Screenshots/blob/main/Float%2024.png?raw=true "Time 24")
 Extra One With time Set to 300
-![Extra One With time Set to 300](https://github.com/12brendon34/Dying-Light-Screenshots/blob/main/(Extra%20for%20fun%20Float%20300).png/?raw=true "Time 300 Because Why Not")
+![Extra One With Time Set to 300](https://github.com/12brendon34/Dying-Light-Screenshots/blob/main/(Extra%20for%20fun%20Float%20300).png/?raw=true "Time 300 Because Why Not")
 Extra One With time Set to 1000000
-![Extra One With time Set to 1000000](https://github.com/12brendon34/Dying-Light-Screenshots/blob/main/(Extra%20for%20fun%20Float%201000000).png?raw=true "Time 1000000 Because Why Not")
+![Extra One With Time Set to 1000000](https://github.com/12brendon34/Dying-Light-Screenshots/blob/main/(Extra%20for%20fun%20Float%201000000).png?raw=true "Time 1000000 Because Why Not")
